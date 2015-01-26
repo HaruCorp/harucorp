@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1112" measuredH="442" mockupW="794" mockupH="438">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="318" y="4" w="794" h="438" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20de%20Actividades%20Extracurriculares%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="318" y="89" w="794" h="321" measuredW="200" measuredH="242" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>inicioAdmin%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%2CaltaActividades%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%2CaltaCoordinador%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%2CaltaActividades%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%2CEstadoActividades%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%2CConstancias%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C105%2C144%2C135%22%20href%3D%22inicioAdmin.bmml%22%20alt%3D%22inicioAdmin%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C133%2C144%2C163%22%20href%3D%22altaActividades.bmml%22%20alt%3D%22altaActividades%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C161%2C144%2C191%22%20href%3D%22altaCoordinador.bmml%22%20alt%3D%22altaCoordinador%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C189%2C144%2C219%22%20href%3D%22altaActividades.bmml%22%20alt%3D%22altaActividades%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C217%2C144%2C247%22%20href%3D%22EstadoActividades.bmml%22%20alt%3D%22EstadoActividades%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C245%2C144%2C275%22%20href%3D%22Constancias.bmml%22%20alt%3D%22Constancias%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>5</selectedIndex>
+        <text>Inicio%0AAlta%20de%20Alumnos%0AAlta%20de%20Coordinadores%0AAlta%20de%20Actividades%0AEstado%20de%20Actividades%0AConstancias</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="605" y="156" w="139" h="-1" measuredW="122" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <state>up</state>
+        <text>ej%3A%2020136700XX</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="461" y="104" w="643" h="291" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Generar%20Constancia</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="482" y="158" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>N%FAmero%20de%20Boleta%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="482" y="205" w="-1" h="-1" measuredW="524" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>El%20alumno%3A%20%28Nombre%20completo%20del%20alumno%29%20con%20n%FAmero%20de%20boleta%20%28boleta%29%20esta%20inscrito%20en%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::DataGrid" x="482" y="241" w="-1" h="-1" measuredW="403" measuredH="81" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Actividades%2C%20Tipo%2C%20Horas%20de%20trabajo%2C%20Coordinador%0AClub%20de%20Programaci%F3n%2C%20Club%2C%2042%20hora%28s%29%2C%20Roberto%20Barraza%0AAjedrez%2C%20Club%2C%2020%20hora%28s%29%2C%20Roberto%20Barraza%0A%7B65L%2C%200R%2C%2050%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="759" y="155" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="482" y="334" w="-1" h="-1" measuredW="418" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Selecciona%20la%20actividad%20para%20generar%20la%20constancia%20y%20presiona%20Generar.</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="955" y="334" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Generar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

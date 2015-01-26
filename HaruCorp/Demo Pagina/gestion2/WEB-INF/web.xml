@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+    <display-name>Gestion</display-name>
+    <description>
+        Gestion de Talleres
+    </description>
+
+    <servlet>
+        <servlet-name>cerrar</servlet-name>
+        <servlet-class>CerrarSession</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>cerrar</servlet-name>
+        <url-pattern>/close</url-pattern>
+    </servlet-mapping>
+
+	<resource-ref>
+		<res-ref-name>jdbc/bd_gestion_talleres</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+	</resource-ref>
+    <filter>
+        <filter-name>log</filter-name>
+        <filter-class>LogFilter</filter-class>
+        <init-param>
+            <param-name>titulo</param-name>
+            <param-value>Registro de Actividades de Academia</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>log</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>authlog</filter-name>
+        <filter-class>AuthFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>authlog</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>guardarAlumno</filter-name>
+        <filter-class>GuardarAlumno</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>guardarAlumno</filter-name>
+        <url-pattern>/form_alumno.html</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>guardarActividad</filter-name>
+        <filter-class>GuardarActividad</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>guardarActividad</filter-name>
+        <url-pattern>/form_actividad.html</url-pattern>
+    </filter-mapping>
+</web-app>

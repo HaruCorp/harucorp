@@ -1,0 +1,72 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1015" measuredH="487" mockupW="627" mockupH="487">
+  <controls>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="388" y="0" w="627" h="487" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="410" y="68" w="590" h="343" measuredW="200" measuredH="242" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>inicioAdmin%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%2CaltaAlumno%26bm%3BaltaAlumno.bmml%26bm%3BaltaAlumno.bmml%26bm%3BaltaAlumno.bmml%2CaltaCoordinador%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%2CaltaActividades%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%2CEstadoActividades%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%2CConstancias%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C88%2C166%2C118%22%20href%3D%22inicioAdmin.bmml%22%20alt%3D%22inicioAdmin%22%20id%3D%2249%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C116%2C166%2C146%22%20href%3D%22altaAlumno.bmml%22%20alt%3D%22altaAlumno%22%20id%3D%2249%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C144%2C166%2C174%22%20href%3D%22altaCoordinador.bmml%22%20alt%3D%22altaCoordinador%22%20id%3D%2249%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C172%2C166%2C202%22%20href%3D%22altaActividades.bmml%22%20alt%3D%22altaActividades%22%20id%3D%2249%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C200%2C166%2C230%22%20href%3D%22EstadoActividades.bmml%22%20alt%3D%22EstadoActividades%22%20id%3D%2249%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C228%2C166%2C258%22%20href%3D%22Constancias.bmml%22%20alt%3D%22Constancias%22%20id%3D%2249%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Inicio%0AAlta%20de%20Alumnos%0AAlta%20de%20Coordinadores%0AAlta%20de%20Actividades%0AEstado%20de%20Actividades%0AConstancias</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::FieldSet" x="569" y="98" w="411" h="265" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingresar%20datos</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="759" y="122" w="206" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TextInput" x="759" y="151" w="206" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::TextInput" x="760" y="210" w="206" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="685" y="152" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="694" y="126" w="50" h="-1" measuredW="40" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Boleta%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="693" y="213" w="48" h="-1" measuredW="39" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grupo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="683" y="185" w="61" h="-1" measuredW="48" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Carrera%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::ComboBox" x="759" y="182" w="-1" h="-1" measuredW="210" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ing%20sistemas%20computacionales</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Button" x="700" y="279" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Button" x="789" y="279" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

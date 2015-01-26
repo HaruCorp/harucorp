@@ -1,0 +1,40 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1163" measuredH="522" mockupW="845" mockupH="518">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="318" y="4" w="845" h="518" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20de%20Actividades%20Extracurriculares%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="318" y="89" w="837" h="399" measuredW="200" measuredH="242" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>inicioAdmin%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%26bm%3BinicioAdmin.bmml%2CaltaAlumno%26bm%3BaltaAlumno.bmml%26bm%3BaltaAlumno.bmml%26bm%3BaltaAlumno.bmml%2CaltaCoordinador%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%26bm%3BaltaCoordinador.bmml%2CaltaActividades%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%26bm%3BaltaActividades.bmml%2CEstadoActividades%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%2CConstancias%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml%26bm%3BConstancias.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C105%2C144%2C135%22%20href%3D%22inicioAdmin.bmml%22%20alt%3D%22inicioAdmin%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C133%2C144%2C163%22%20href%3D%22altaAlumno.bmml%22%20alt%3D%22altaAlumno%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C161%2C144%2C191%22%20href%3D%22altaCoordinador.bmml%22%20alt%3D%22altaCoordinador%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C189%2C144%2C219%22%20href%3D%22altaActividades.bmml%22%20alt%3D%22altaActividades%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C217%2C144%2C247%22%20href%3D%22EstadoActividades.bmml%22%20alt%3D%22EstadoActividades%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C245%2C144%2C275%22%20href%3D%22Constancias.bmml%22%20alt%3D%22Constancias%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>4</selectedIndex>
+        <text>Inicio%0AAlta%20de%20Alumnos%0AAlta%20de%20Coordinadores%0AAlta%20de%20Actividades%0AEstado%20de%20Actividades%0AConstancias</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="467" y="104" w="678" h="370" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Estado%20de%20Actividades%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="482" y="122" w="-1" h="-1" measuredW="150" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Resultados%20de%20busqueda%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="482" y="322" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>EstadoActividades%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml%26bm%3BEstadoActividades.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22164%2C318%2C242%2C345%22%20href%3D%22EstadoActividades.bmml%22%20alt%3D%22EstadoActividades%22%20id%3D%2210%22/%3E</map>
+        <text>Regresar</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::DataGrid" x="477" y="173" w="-1" h="-1" measuredW="658" measuredH="111" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No.%20de%20Boleta%2C%20Nombre%20del%20Alumno%2C%20Carrera%2C%20Grupo%2C%20Actividad%0A2013670076%2C%20Giacomo%20Guilizzoni%20%2C%20Ing.%20en%20Sistemas%20Computacionales%2C%203CM2%2C%20Club%20de%20Ajedrez%0A2013670065%2C%20Marco%20Botton%20Tuttofare%2C%20Ing.%20en%20Alimentos%2C%203AA2%20%2C%20Basketbol%0A2012650076%2C%20Mariah%20Maclachlan%20Better%20Half%2C%20Ing.%20en%20Mecatr%F3nica%2C%202MM1%2C%20Futbol%0A%7B0L%2C%200L%2C%200C%2C%200C%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

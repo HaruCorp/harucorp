@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1112" measuredH="522" mockupW="794" mockupH="518">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="318" y="4" w="794" h="518" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20de%20Actividades%20Extracurriculares%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="318" y="89" w="794" h="399" measuredW="200" measuredH="242" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>4</selectedIndex>
+        <text>Inicio%0AAlta%20de%20Alumnos%0AAlta%20de%20Coordinadores%0AAlta%20de%20Actividades%0AEstado%20de%20Actividades%0AConstancias</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="467" y="104" w="637" h="370" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Estado%20de%20Actividades</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="482" y="122" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Actividad%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="482" y="223" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Carrera%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="951" y="433" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="565" y="122" w="-1" h="-1" measuredW="175" measuredH="93" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seleccione%20la%20actividad...%0AAjedrez%0AProgramaci%F3n%0AFutbol%0ABasquetbol</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ComboBox" x="565" y="227" w="217" h="-1" measuredW="164" measuredH="109" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seleccione%20la%20carrera...%0AIng.%20en%20Sistemas%20Computacionales%0AIng.%20en%20Alimentos.%0AIng.%20en%20Mecatr%F3nica.%0AIng.%20en%20Ambiental.%0AIng.%20en%20Metalurgia.</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::ComboBox" x="565" y="351" w="-1" h="-1" measuredW="154" measuredH="109" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seleccione%20el%20grupo...%0A2CM1%0A2CM2%0A3MM1%0A3CM1%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="482" y="354" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Grupo%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

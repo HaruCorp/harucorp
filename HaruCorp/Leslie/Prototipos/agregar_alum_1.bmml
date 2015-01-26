@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="802" measuredH="457" mockupW="530" mockupH="445">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="272" y="12" w="530" h="445" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="287" y="122" w="500" h="302" measuredW="200" measuredH="272" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>principal%26bm%3Bprincipal.bmml%26bm%3Bprincipal.bmml%26bm%3Bprincipal.bmml%2C%2CAsistencia%26bm%3BAsistencia.bmml%26bm%3BAsistencia.bmml%26bm%3BAsistencia.bmml%2CLista%26bm%3BLista.bmml%26bm%3BLista.bmml%26bm%3BLista.bmml%2Cagregar_alum_1%26bm%3Bagregar_alum_1.bmml%26bm%3Bagregar_alum_1.bmml%26bm%3Bagregar_alum_1.bmml%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C130%2C201%2C160%22%20href%3D%22principal.bmml%22%20alt%3D%22principal%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C186%2C201%2C216%22%20href%3D%22Asistencia.bmml%22%20alt%3D%22Asistencia%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C214%2C201%2C244%22%20href%3D%22Lista.bmml%22%20alt%3D%22Lista%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C242%2C201%2C272%22%20href%3D%22agregar_alum_1.bmml%22%20alt%3D%22agregar_alum_1%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>4</selectedIndex>
+        <text>Inicio%0AActividad%201%0ATomar%20lista%0ALista%20de%20alumnos%0AAgregar%20alumno%20a%20la%20actvidad%0AGenerar%20reporte%0AActividad%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="699" y="103" w="-1" h="-1" measuredW="82" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cerrar%20sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="492" y="143" w="275" h="177" measuredW="275" measuredH="177" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="__group__" x="0" y="0" w="275" h="177" measuredW="275" measuredH="177" zOrder="0" locked="false" isInGroup="3">
+          <groupChildrenDescriptors>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="128" y="127" w="89" h="27" measuredW="77" measuredH="27" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <href>principal%26bm%3Bprincipal.bmml%26bm%3Bprincipal.bmml%26bm%3Bprincipal.bmml</href>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22348%2C258%2C437%2C285%22%20href%3D%22principal.bmml%22%20alt%3D%22principal%22%20id%3D%221%22/%3E</map>
+                <text>Cancelar</text>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="34" y="128" w="79" h="25" measuredW="71" measuredH="27" zOrder="3" locked="false" isInGroup="3">
+              <controlProperties>
+                <href>agregar_alum_1%26bm%3Bagregar_alum_1.bmml%26bm%3Bagregar_alum_1.bmml%26bm%3Bagregar_alum_1.bmml</href>
+                <italic>false</italic>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22254%2C259%2C333%2C284%22%20href%3D%22agregar_alum_1.bmml%22%20alt%3D%22agregar_alum_1%22%20id%3D%2211%22/%3E</map>
+                <text>Agregar</text>
+              </controlProperties>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="42" y="83" w="175" h="25" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="3"/>
+            <control controlID="17" controlTypeID="com.balsamiq.mockups::Title" x="17" y="0" w="258" h="-1" measuredW="116" measuredH="19" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <size>16</size>
+                <text>Agregar%20alumno</text>
+              </controlProperties>
+            </control>
+            <control controlID="18" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="41" w="266" h="136" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Actividad%201</text>
+              </controlProperties>
+            </control>
+            <control controlID="19" controlTypeID="com.balsamiq.mockups::Title" x="0" y="56" w="258" h="-1" measuredW="99" measuredH="15" zOrder="5" locked="false" isInGroup="3">
+              <controlProperties>
+                <align>left</align>
+                <size>12</size>
+                <text>N%FAmero%20de%20boleta%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,23 @@
+En la ventana de opciones:
+-quitar opcion de ver horario.
+-quitar opcion de finalizar actividad.
+-quitar opcion de eliminar alumno.
+
+En general quitar todo lo de ver horario y actividades activas y finalizadas y solo poner 
+el nombre de la actividad y listo.
+
+En la modalidad presencial solo se puede:
+-tomar asistencia.
+-ver la lista de alumnos.
+-generar reporte (En esta solo pon el link yo me encargo de lo que tiene que hacer).
+-agregar alumnos a la actividad.
+
+Las pruebas generalas con un ejemplo en expecifico, toma en cuenta que existen algunos datos
+ya para que solo ejecutes las pruebas porque la estas poniendo muy generales, ej. buscar el numero de boleta
+2013670057 y tiene que devolver el nombre de Ernesto Jacobo Troncoso de la Riva y agregarlo a la actividad. 
+o algo asi.
+
+En el de agregar alumno al curso solo se tiene que buscar en la base de datos el numero de boleta y 
+agregarlo al curso, seria todo. el que va a dar de alta al alumno es el componente que va a hacer abraham.
+
+Espero y sea todo saludos.

@@ -1,0 +1,11 @@
+<Context>
+	<Resource
+		name="jdbc/bd_gestion_talleres"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost/bd_gestion_talleres"
+		username="root"
+		password=""
+		maxActive="20"/>
+</Context>
